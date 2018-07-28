@@ -9,7 +9,4 @@ out
 gen
 target
 .gitignore
-.idea/
-MVC_OM.iml
-pom.xml
-src/
+
